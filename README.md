@@ -1,4 +1,4 @@
-# Université de Lorraine - Master Journalisme et Médias Numériques 2019
+# Université de Lorraine - Master Journalisme et Médias Numériques 2020-2021
 
 ![](https://www.masterjournalismenumerique.fr/wp-content/uploads/2018/03/logo-MJMN-fond-blanc-carr%C3%A9.png)
 
