@@ -1,0 +1,286 @@
+---
+title: "Rapport aux sources et dataliteracy 2"
+subtitle: "La production de la preuve"
+author: "Sylvain Lapoix"
+date: "MJMN - 06/01/2021"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+
+---
+
+
+
+### Compiler les données
+
+Exemple : la "pause" du changement climatique et la "cross de hockey".
+
+![](./img/pause_cc.png)
+
+.footnote[Source : [Le Monde, 04/05/2016](https://www.lemonde.fr/climat/article/2015/06/05/la-pause-du-rechauffement-climatique-etait-un-mirage_4647745_1652612.html)]
+
+---
+
+background-image: url("https://media.giphy.com/media/110dhxfJebYOTm/giphy.gif")
+class: center, top, inverse
+
+# III : traiter et analyser
+
+
+---
+
+## S'attarder sur la fabrique des chiffres
+
+Avez-vous déjà entendu dire que *"80% des lois votées en France étaient d'origine européenne"* ? Par qui ? Pour dire quoi ?
+
+--
+
+.pull-left[
+[
+Un groupe d'étude de Terra Nova](http://tnova.fr/rapports/normes-europeennes-loi-francaise-le-mythe-des-80) en en a identifié la source : il s'agit d'une citation tronquée de Jacques Delors en 1987
+
+> *"30 % de la législation belge est d’origine communautaire et [...] ce chiffre devrait passer à 60 % dans les dix ans qui viennent [...] Dans 10 ans, 80% de la législation économique, peut-être aussi fiscale et sociale, sera d'origine communautaire »"*
+]
+
+.pull-right[
+
+![](./img/mythe80pourcents.png)
+
+Au delà de l'anecdote, cela masque la complexité : qui vote ces lois ? Quelle est leur distribution par politique ? ... Tout un débat est escamoté.
+]
+
+---
+
+## S'attarder sur la fabrique des chiffres 2
+
+En 2012, Marine Le Pen sème sur les plateaux un chiffre que personne ne questionne : la déliquance et le crime [coûteraient 115 milliards d'euros par an à la France](http://owni.fr/2012/02/10/115-milliards-de-peurs/index.html). Une étude, pourtant, en détaillait la méthode.
+
+.center[
+![](./img/fn_insecurite.png)
+]
+---
+
+## Prendre garde aux angles morts mathématiques
+
+---
+
+### Différence entre moyenne et médiane
+
+Rappel :
+* `Moyenne = somme de l'ensemble / nombre de parties`
+* `Mediane = valeur qui coupe l'ensemble en deux groupes égaux en nombre de parties`
+
+La moyenne s'attache à l'ensemble, la médiane à ce qui le compose.
+La moyenne a tendance à lisser et donc à donner une représentation faussée des sous-populations qui composent un ensemble.
+
+--
+
+.pull-left[
+[Une étude réalisée par l'Insee sur les pratiques numériques](https://www.insee.fr/fr/statistiques/4241397) :
+
+![](./img/insee_fracturenumerique.png)
+]
+
+.pull-right[
+![](./img/insee_fracturenumerique_2.png)
+La moyenne cache une forte disparité en terme de distribution (notamment par tranches d'âge).
+]
+
+---
+
+### Envisager les différentes explications
+.center[
+![](./img/dividendes_investissements.jpeg)
+]
+Source : [Alternatives économiques](https://www.alternatives-economiques.fr/de-dividendes-assez-dinvestissements-1301201776430.html).
+
+---
+
+## Prendre gare aux modalités de raisonnement
+
+* le proxy problématique ;
+* le cherry-picking ;
+* *"l'effet cigogne"*.
+
+---
+
+background-image: url("https://media.giphy.com/media/hS4HVb6ATynMA/giphy.gif")
+class: center, top, inverse
+
+# IV : Evaluer et citer
+
+
+---
+
+background-image: url("https://media.giphy.com/media/OnJLRvXvAmvPW/giphy.gif")
+class: center, top, inverse
+
+# Introduction à la méthodologie scientifique
+
+---
+
+## La parabole du mouton noir
+
+![](img/mouton_noir.jpeg)
+
+---
+
+## Version "blague écossaise"
+
+Un astronome, un physicien et un mathématicien prennent le train pour l'Ecosse. Dans un champs, apparaît un mouton.
+
+*"Incroyable"*, dit l'astronome, *"les moutons sont donc noirs en Ecosse !"*
+
+Le physicien le corrige : *"non, non, voyons : CERTAINS moutons écossais sont noirs "*
+
+Le mathématicien se râcle la gorge et les reprend : *"En Ecosse, il existe au moins un champs contenant au moins un mouton dont l'un des côtés est noir"*.
+
+--
+
+Ces trois approches constituent trois possibilités d'interprétation des phénomènes :
+* généralisatrice (l'observation résume la population) ;
+* restrictive (l'observation représente un trait de la population) ;
+* sceptique (l'observation ne représente qu'elle-même).
+
+---
+
+## Approche scientifique
+
+L'approche scientifique procède par **hypothèse** :
+une hypothèse consiste à formuler une relation possible de causalité entre un phénomène et un facteur.
+
+Par ex. :
+* tel produit chimique provoque telle pathologie ;
+* telle configuration familiale génère tel problème social ;
+* tel événement atmosphérique contribue au changement climatique.
+
+Pour **vérifier** une hypothèse, les chercheur·se·s établissent des **protocoles**. C'est-à-dire des modalités d'observation permettant d'**isoler** le(s) facteur(s) étudié(s) pour **évaluer** leur influence sur le phénomène.
+
+
+---
+
+## Quelques principes clefs
+
+La recherche scientifique s'inscrit dans **une continuité** : tout·e chercheur·se se réfère à des études précédentes, un socle de connaissance, soit pour établir des définitions, soit pour les mettre à l'épreuve.
+
+La recherche scientifique s'inscrit dans **une communauté** : toute publication a vocation à être partagée et donc à être comparée aux autres travails passés, présents et futurs.
+
+La recherche scientifique s'inscrit dans **un débat** : tout résultat doit pouvoir être testé, contesté ...
+
+--
+
+En conséquence de quoi, toute étude se doit d'être :
+* **référentielle**, grâce à une bibliographie ;
+* **reproductible**, grâce à une méthodologie ;
+* **évaluée**, grâce à des statistiques.
+
+---
+
+## La science moderne est basée sur la réfutabilité
+
+La science ne progresse pas par la certitude mais par le doute.
+
+C'est la thèse de Karl Popper dans son livre **[La société libre et ses ennemis](https://www.theguardian.com/books/2016/sep/26/100-best-nonfiction-books-karl-popper-open-society-its-enemies)** : pour être admise dans le débat, toute preuve doit être réfutable.
+
+Ergo : les scientifiques doivent produirent les moyens de la contredire.
+
+.center[
+![](./img/karlpopper.jpg)
+]
+
+---
+
+## Les critères d'évaluation internes
+
+---
+
+### La p-valeur
+
+> "La p-value est la probabilité, sous H0, d’obtenir une statistique aussi extrême (pour ne pas dire aussi grande) que la valeur observée sur l’échantillon. Aussi, pour un seuil de significativité α donné, on compare p et α, afin d’accepter, ou de rejeter H0.
+* si p <= α, on va rejeter l’hypothèse H0 (en faveur de H1)
+* si p > α, on va rejeter H1 (en faveur de H0)."
+
+Source : [Freakonomics](https://freakonometrics.hypotheses.org/2462).
+
+De manière conventionnelle : α = 0.05 = 5%.
+
+Dans les publications scientifiques, vous trouverez des formules du type :
+"pour les personnes ayant reçu le traitement B, la probabilité est de 27.8% (p = 3*10e-4)".
+
+---
+
+### Critères externes
+
+
+---
+
+
+background-image: url("https://media.giphy.com/media/HjeCoDcNkV4xq/giphy.gif")
+class: center, top, inverse
+
+# Publications scientifiques
+
+
+---
+
+background-image: url("https://media.giphy.com/media/VcizxCUIgaKpa/giphy.gif")
+class: center, top, inverse
+
+# Publications scientifiques
+
+### avec un autre GIF, j'avoue avoir hésité
+
+
+---
+
+## La question des publications scientifiques
+
+La question des publications scientifiques constitue un véritable enjeu politique, pour la science, pour le savoir mais aussi pour tout ce qui en dépend dans le débat public. Nous l'avions abordé à l'occasion de l'épisode 63 de #DATAGUEULE : [Privés de savoir ?](https://www.youtube.com/watch?v=WnxqoP-c0ZE).
+
+![](./img/datagueule_publicationscientifiques.png)
+
+---
+
+## Où les trouver ?
+
+* [Google Scholar](https://scholar.google.com/) : le moteur de recherche universitaire de Google ;
+* [Science Direct](https://www.sciencedirect.com/) : le moteur de recherche du leader du marché, Elsevier ;
+* [Research Gate](https://www.researchgate.net) : le plus grand réseau social de chercheur du monde qui référence de nombreuses publications ;
+* [Core](https://core.ac.uk/) : le moteur de recherche de la science en open access ;
+* [Open Edition](https://www.openedition.org/) : le plus grand éditeur de revues en open access au monde.
+
+---
+
+## Remonter le fil
+
+Certains articles relaient des communiqués de presse, des articles relayant des études, etc. Pour consulter l'étude d'origine, il est important de consulter la **source primaire** pour connaître la méthodologie utilisée.
+
+Pour trouver la source originelle, vous pouvez relever plusieurs indices :
+* **les identifiants uniques** : DOI, ISSN, etc.
+* **les caractéristiques discriminantes** : nom des auteur·rice·s, laboratoire, centre de recherche, université, pays, année de publication, etc.
+* **les faits saillants** : taille de l'échantillon, termes utilisés, points de méthodologie, etc.
+
+Une fois équipés de ces critères, vous pourrez aisément 
+
+---
+
+## Exercice : "your cat wants to kill you ..."
+
+.center[
+[USA Today, 2015](https://eu.usatoday.com/story/news/nation-now/2015/10/31/cat-lion-psychological-traits/74941388/)
+![](./img/cat_kill_you.png)
+]
+
+---
+
+class: inverse, center, middle
+
+# Merci !
+
+
+Contact : [sylvainlapoix@gmail.com](mailto:sylvainlapoix@gmail.com) ou via WhatsApp.
+
