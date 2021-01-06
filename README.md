@@ -22,8 +22,8 @@ Ce cours se déroule dans le cadre du [master journalisme et médias numériques
 
 ## Supports
 
-* Jour1 : [Quantifier, qualifier et évaluer](https://sylvainlapoix.github.io/mjmn_dataliteracy_20202021/jour1/)
-* Jour2 : [](https://sylvainlapoix.github.io/mjmn_dataliteracy_20202021/jour2/)
+* Jour1 : [Quantifier et qualifier](https://sylvainlapoix.github.io/mjmn_dataliteracy_20202021/jour01/)
+* Jour2 : [Evaluer et citer](https://sylvainlapoix.github.io/mjmn_dataliteracy_20202021/jour02/)
 
 
 ## Références
