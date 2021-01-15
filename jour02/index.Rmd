@@ -277,6 +277,86 @@ Une fois équipés de ces critères, vous pourrez aisément
 
 ---
 
+
+background-image: url(https://media.giphy.com/media/3o6wNTC6U7EmChEapW/giphy.gif)
+class: center, top, inverse
+
+## Qui produit des données ?
+
+---
+
+## Dressez la fiche d'identité de ces organismes
+
+* Forme sociale ;
+* Gouvernance ;
+* Champs d'action (géographique, politique) ;
+* Publications ;
+* Sources de publications.
+
+---
+
+### Trois questions pour trouver (presque) tout
+
+1. qui a intérêt à la produire ?
+2. où a-t-elle intérêt à la diffuser ?
+3. sous quel format ?
+
+---
+
+background-image: url(https://media.giphy.com/media/Tz46n4SsWb5Uk/giphy.gif)
+class: center, top, inverse
+
+# Elements de méthodologie
+
+---
+
+## Bien citer
+
+Un exemple de citation : les rapports du Giec (ici [AR5, 2014](https://www.ipcc.ch/report/ar5/wg3/)).
+
+.center[
+![](./img/ipcc_citation.png)
+]
+
+---
+
+## Bien formuler
+
+.pull-left[
+![](https://uploads-ssl.webflow.com/55ffb913802106d003a85d95/55ffedfd5d4501c40ebd0837_Cover%20manual%202014-p-500x702.png)
+]
+
+.pull-right[
+Mark Lee Hunter (ed.), [Story-Based Inquiry. A Manual for Investigative Journalists](https://www.storybasedinquiry.com/manual), Unesco, 2009.
+]
+
+---
+
+## Proposition de méthodologie de recherche
+
+1. hypothèse formulée ;
+2. questions induites ;
+3. termes à définir ;
+4. documentation commentée pour la définition (notamment sur la fiabilité selon les critères internes et externes évoqués en cours) ;
+5. premiers éléments de définitions ;
+6. sources pertinentes identifiées pour le sujet suivant la méthode ;
+7. premiers éléments de bibliographie.
+
+---
+
+
+## L'exercice
+
+1. Décomposer le sujet
+2. Définir les termes du sujet
+3. Terminologie -> sources associées
+4. Méthodologie -> interroger / se réapproprier le sujet
+5. Débat interne du sujet : consensus, discussion, rapport de force?
+6. Consulter les sources externes. Identifier les biais.
+7. Appeler des gens. 
+
+---
+
 class: inverse, center, middle
 
 # Merci !
